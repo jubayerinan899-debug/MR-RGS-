@@ -1,22 +1,22 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME DEV YASIN
 // =======================================================
-var website_name = "YASIN";
+var website_name = DEV YASIN 
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = @TOPUPHUNT 
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = @TOPUPHUNTHELPLLINE
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = @TOPUPHUNT
 
 // =======================================================
 // NOTIFICATION TEXT
